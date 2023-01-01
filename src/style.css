@@ -10,7 +10,7 @@
     padding: 20px;
     height:250px;
   }
-  .head-title {
+  .title_header {
 
     width: 100%;
     background:#f1ded6;
@@ -24,7 +24,7 @@
     box-shadow: 5px 5px 12px blue;
     cursor:pointer;
   }
-  .head-btn {
+  .btn_header {
     line-height:30px;
     width: 100px;
     height: 38px;
@@ -34,14 +34,13 @@
     border:none;
     color:#fff;
 
-   
     margin-left:47%;
   }
-  .card-body {
+  .body_card {
     text-align: center;
     color: rgb(78, 78, 62);
   }
-  .card-img-top {
+  .img-1 {
     width: 100%;
   }
   .users-space {
