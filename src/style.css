@@ -13,7 +13,6 @@
   .head-title {
 
     width: 100%;
-    margin: 1%;
     background:#f1ded6;
     justify-content: center;
     text-align: center;
@@ -22,13 +21,13 @@
     margin-bottom: 50px;
     font-weight: bold;
     color: black;
-    box-shadow: 5px 5px 12px blue;;
+    box-shadow: 5px 5px 12px blue;
+    cursor:pointer;
   }
   .head-btn {
     line-height:30px;
     width: 100px;
-    height: 2.5rem;
-    margin: 1%;
+    height: 38px;
     background-color: #252422;
     border-radius: 5px;
     font-size: 30px;
